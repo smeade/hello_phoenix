@@ -5,7 +5,7 @@ Working through the [Phoenix Guides (v1.3.0)](https://hexdocs.pm/phoenix/up_and_
 Each section has a branch in this repo.
 
 Guides
-- [x] Up and Running
+- [x] Up and Running [[src](https://github.com/smeade/hello_phoenix/tree/001_up_and_running)|[demo](https://phx-001-getting-started.herokuapp.com)]
 - [ ] Adding Pages
 - [ ] Routing
 - [ ] Plug
