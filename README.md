@@ -1,5 +1,36 @@
 # Hello
 
+Working through the [Phoenix Guides (v1.3.0)](https://hexdocs.pm/phoenix/up_and_running.html).
+
+Each section has a branch in this repo.
+
+Guides
+- [x] Up and Running
+- [ ] Adding Pages
+- [ ] Routing
+- [ ] Plug
+- [ ] Endpoint
+- [ ] Controllers
+- [ ] Views
+- [ ] Templates
+- [ ] Channels
+- [ ] Ecto
+- [ ] Contexts
+- [ ] Mix Tasks
+- [ ] Custom Errors
+
+Testing
+- [ ] Introduction to Testing
+- [ ] Testing Schemas
+- [ ] Testing Controllers
+- [ ] Testing Channels
+
+Deployment
+- [ ] Introduction to Deployment
+- [x] Deploying on Heroku
+
+# Phoenix
+
 To start your Phoenix server:
 
   * Install dependencies with `mix deps.get`
@@ -9,7 +40,7 @@ To start your Phoenix server:
 
 Now you can visit [`localhost:4000`](http://localhost:4000) from your browser.
 
-Ready to run in production? Please [check our deployment guides](http://www.phoenixframework.org/docs/deployment).
+Ready to run in production? Please [check the deployment guides](http://www.phoenixframework.org/docs/deployment).
 
 ## Learn more
 
